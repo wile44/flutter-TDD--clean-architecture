@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter_clean_architecture_course/core/failures.dart';
+import 'package:flutter_clean_architecture_course/core/errors/failures.dart';
 import 'package:flutter_clean_architecture_course/features/number_trivia/data/repositories/number_trivia_repository.dart';
 
 import '../../../../core/usecases/usecase.dart';
